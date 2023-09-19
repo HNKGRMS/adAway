@@ -31208,6 +31208,11 @@
 127.0.0.1       www.scrolller.com
 127.0.0.1       www.instander.com
 127.0.0.1       www.thedise.me
+127.0.0.1       www.faproulette.co
+127.0.0.1       www.gwasi.com
+127.0.0.1       www.motherless.com
+127.0.0.1       www.reddit.com/r/gonewildaudio
+127.0.0.1       www.omegle.com
 
 
 # Look up for the porn_ads file for porn-ads only domains.
